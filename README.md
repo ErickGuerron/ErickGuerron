@@ -8,7 +8,11 @@
 <br>
 
 <!-- Reemplaza esta URL con tu animación hosteada -->
-<img src="https://erickguerron.github.io/" alt="Tech Orbit Animation" width="600" />
+<div align="center">
+  <a href="https://erickguerron.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Ver_Animación_Interactiva-Click_Aquí-blue?style=for-the-badge" alt="Ver animación" />
+  </a>
+</div>
 
 
 <br>
