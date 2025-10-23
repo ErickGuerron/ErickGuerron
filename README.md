@@ -8,7 +8,7 @@
 <br>
 
 <!-- Reemplaza esta URL con tu animación hosteada -->
-<img src="https://tu-dominio.com/earth-orbit.gif" alt="Tech Orbit Animation" width="600" />
+<img src="https://erickguerron.github.io/" alt="Tech Orbit Animation" width="600" />
 
 
 <br>
