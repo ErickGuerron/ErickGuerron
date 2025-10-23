@@ -5,21 +5,7 @@
 ### Estudiante de Ingeniería de Software
 *Especializado en Desarrollo Web Full-Stack & Arquitecturas Contenerizadas*
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-```
-                    🛰️ Angular
-                         
-         React ⚛️                    🐳 Docker
-                    🌍
-                  EARTH
-                                 
-    TypeScript 📘              NestJS 🔴
-                    
-                  ☕ Java
-```
+<img src="https://tu-dominio.com/earth-orbit.gif" alt="Tech Orbit Animation" width="600" />
 
 <div align="center">
 
