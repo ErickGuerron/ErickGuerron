@@ -5,9 +5,13 @@
 ### Estudiante de Ingeniería de Software
 *Especializado en Desarrollo Web Full-Stack & Arquitecturas Contenerizadas*
 
+<br>
+
+<!-- Reemplaza esta URL con tu animación hosteada -->
 <img src="https://tu-dominio.com/earth-orbit.gif" alt="Tech Orbit Animation" width="600" />
 
-<div align="center">
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickguerron)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickguerron@yahoo.com)
@@ -210,11 +214,6 @@ CI/CD pipelines<br/>Docker workflows
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickGuerron&theme=tokyonight)
-
-</div>
 
 ---
 
