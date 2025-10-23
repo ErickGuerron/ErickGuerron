@@ -1,110 +1,127 @@
+<div align="center">
 Erick Guerrón
 
-Estudiante de Ingeniería de Software · Desarrollo Web & APIs · Arquitecturas Contenerizadas
+Estudiante de Ingeniería de Software
+Desarrollo Web & APIs · Arquitecturas Contenerizadas
 
-👨‍🎓 Sobre mí
 
-Soy estudiante de Ingeniería de Software con interés en desarrollo web, APIs y contenedores. Me enfoco en escribir código limpio y documentado, aplicar buenas prácticas y aprender tecnologías modernas que se usan en entornos productivos.
-Estoy construyendo proyectos personales y académicos para profundizar en arquitecturas escalables, seguridad de aplicaciones y la aplicación responsable de IA Generativa.
 
-🎯 Objetivo: consolidar bases sólidas y prácticas profesionales (SOLID, testing, CI).
 
-🧩 Me motiva: convertir ideas en productos funcionales y bien diseñados.
 
-🌱 Aprendiendo: MLOps básico, seguridad en APIs (JWT/OWASP), despliegue con Docker.
 
-📍 Ubicación: Ecuador (UTC−5).
+</div>
+<div align="center">
+🎓 Sobre mí
 
-🧪 Tecnologías principales
+Estudiante con enfoque en desarrollo web, APIs y contenedores. Me gusta escribir código limpio, documentado y aplicar buenas prácticas.
+Actualmente construyo proyectos académicos/personales para profundizar en arquitecturas escalables, seguridad y IA Generativa responsable.
 
-Frontend
+🎯 Objetivo: SOLID · Testing · CI/CD & hábitos profesionales
+🧩 Me motiva: convertir ideas en productos simples y bien diseñados
+🌱 Aprendiendo: MLOps básico · Seguridad (JWT/OWASP) · Docker deployments
+📍 Ecuador (UTC−5)
 
-Angular
+</div>
+🔧 Stack principal
 
-React (con TypeScript)
+Frontend: Angular · React (TypeScript)
+Backend: Nest.js · Laravel · REST (DTOs, Guards, Swagger/OpenAPI)
+Contenedores & Flujo: Docker (multi-stage, compose) · Git/GitFlow (PR, CR, commits convencionales)
 
-Patrones: arquitectura por features, formularios reactivos, enrutamiento, i18n, accesibilidad.
-
-Backend
-
-Nest.js, Laravel
-
-Diseño de APIs REST, validación/DTOs, guards, Swagger/OpenAPI.
-
-Contenedores & Flujo de trabajo
-
-Docker (multi-stage, compose)
-
-Git/GitFlow · PRs, code review, conventional commits.
-
+🧰 Stack visual
+<p align="center"> <img alt="Angular" height="26" src="https://img.shields.io/badge/Angular-EE002A?style=for-the-badge&logo=angular&logoColor=white" /> <img alt="React" height="26" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="TypeScript" height="26" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="NestJS" height="26" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img alt="Laravel" height="26" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Java" height="26" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img alt="C#" height="26" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img alt="PHP" height="26" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Docker" height="26" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Git" height="26" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" /> </p>
 🔤 Lenguajes
 
-Java, JavaScript, TypeScript, C#
+Java · JavaScript · TypeScript · C# · PHP (básico–intermedio)
 
-PHP (nivel básico–intermedio)
+🛡️ Seguridad & Cumplimiento
 
-🛡️ Seguridad & Cumplimiento (bases)
+Fundamentos ISO/IEC 27001: gestión de riesgos, controles, políticas.
 
-Fundamentos ISO/IEC 27001: gestión de riesgos, controles y políticas.
-
-Buenas prácticas de APIs: JWT, manejo de secretos, validación estricta, cabeceras de seguridad, registros y auditoría.
+Buenas prácticas en APIs: JWT, manejo de secretos, validación estricta, cabeceras seguras, logging/auditoría.
 
 🧾 Certificaciones
 
-🎓 Fundamentos de IA Generativa — Microsoft
-ID / Enlace: [agrega tu URL]
+🎓 Fundamentos de IA Generativa — Microsoft · ID/URL: [añade tu enlace]
 
-🎓 Seguridad ISO 27001 — ProGenios
-ID / Enlace: [agrega tu URL]
+🎓 Seguridad ISO 27001 — ProGenios · ID/URL: [añade tu enlace]
 
-🎓 Docker — [Proveedor]
-ID / Enlace: [agrega tu URL]
+🎓 Docker — [Proveedor] · ID/URL: [añade tu enlace]
 
 🎒 Educación
 
 Ingeniería de Software — [Universidad / Facultad]
-Cursos relevantes: Estructuras de Datos, Bases de Datos, Redes, Ingeniería de Requisitos, Arquitectura de Software, Seguridad, DevOps.
+Cursos: Estructuras de Datos · BD · Redes · Requisitos · Arquitectura · Seguridad · DevOps
 
-🧰 Stack visual
-<p align="left"> <img alt="Angular" height="28" src="https://img.shields.io/badge/Angular-EE002A?style=for-the-badge&logo=angular&logoColor=white" /> <img alt="React" height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="TypeScript" height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="NestJS" height="28" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img alt="Laravel" height="28" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Java" height="28" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img alt="C#" height="28" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img alt="PHP" height="28" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Docker" height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Git" height="28" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" /> </p>
-🧩 Proyectos destacados (académicos/personales)
+🧩 Proyectos destacados
+<table> <tr> <td>
 
-Gestor de Solicitudes (Nest.js + Angular + Docker)
+Gestor de Solicitudes
+Nest.js + Angular + Docker
 Autenticación JWT, roles básicos, CI con GitHub Actions.
+🔗 Repositorio
 
-E-commerce demo (React + TypeScript)
+</td> <td>
+
+E-commerce Demo
+React + TypeScript
 Rutas protegidas, carrito persistente, pruebas de componentes.
+🔗 Repositorio
 
-API de Catálogos (Laravel 10, Sanctum)
-CRUD con validaciones, paginación y cache básico.
+</td> </tr> <tr> <td>
 
-Reemplaza con tus repos y enlaza a cada proyecto.
+API de Catálogos
+Laravel 10 + Sanctum
+CRUD validado, paginación, cache básico.
+🔗 Repositorio
+
+</td> <td>
+
+[Proyecto 4 opcional]
+Stack a elección
+Breve descripción del objetivo/impacto.
+🔗 Repositorio
+
+</td> </tr> </table>
+
+Reemplaza los placeholders [repo-*] por tus repos reales.
 
 📚 Forma de trabajo
 
-Diseño primero: casos de uso, OpenAPI, diagramas de componentes.
-
-Código mantenible: SOLID, separación por capas, modularidad.
-
-Calidad: pruebas unitarias/integración, CI (lint + test), revisión por pares.
-
-Entrega: imágenes Docker reproducibles y versionadas.
-
-Documentación: README y Swagger claros; issues y releases etiquetados.
+Diseño primero: casos de uso · OpenAPI · diagramas
+Mantenibilidad: SOLID · capas · modularidad
+Calidad: tests unitarios/integración · CI (lint+test) · code review
+Entrega: imágenes Docker reproducibles y versionadas
+Docs: README + Swagger claros · issues & releases etiquetados
 
 📈 Métricas
+<div align="center">
 
 
 
 
+</div>
 📫 Contacto
 
-Correo: [erickguerron]@[yahoo].com
-
-LinkedIn: https://www.linkedin.com/in/erickguerron
-
-Portafolio: https://[tu-dominio].com
+Correo: erickguerron@yahoo.com
+ · LinkedIn: /in/erickguerron
+ · Portafolio: https://[tu-dominio].com
 
 Licencia
 
 Este perfil y sus ejemplos se publican con fines informativos. El código en los repositorios individuales puede tener su propia licencia.
+
+Opcional: versión compacta plegable
+<details> <summary><b>Ver versión ultra-compacta</b></summary>
+
+Erick Guerrón — Estudiante de Ingeniería de Software
+Frontend: Angular · React (TS) · Backend: Nest.js · Laravel · REST
+Contenedores: Docker · Flujo: Git/GitFlow · Lenguajes: Java · JS · TS · C# · PHP
+Seguridad: ISO 27001 (fundamentos) · JWT/OWASP · Logs/Auditoría
+Certs: Microsoft (GenAI) · ProGenios (ISO 27001) · Docker
+Educación: [Universidad] — cursos clave (DS, DB, Redes, Arq, Seguridad, DevOps)
+Proyectos: Gestor Solicitudes · E-commerce · API Catálogos · [Otro]
+Contacto: erickguerron@yahoo.com
+ · /in/erickguerron
+
+</details>
