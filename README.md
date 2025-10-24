@@ -222,7 +222,7 @@ CI/CD pipelines<br/>Docker workflows
 
 ## 🎓 Formación Académica
 
-**Ingeniería de Software** — [Universidad/Institución]
+**Ingeniería de Software** — Universidad Tecnica de Ambato
 
 **Áreas de Estudio:**
 - Estructuras de Datos & Algoritmos
