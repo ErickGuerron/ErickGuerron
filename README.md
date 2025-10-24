@@ -77,6 +77,8 @@ Plataforma de comercio con gestión de estado avanzada y rutas protegidas.
 **[Ver Repositorio →](https://github.com/Mabe-Zapata/E-commerce-25-26)**
 
 </td>
+
+</tr>
 <td width="50%">
 
 ### 🛒 App Predicion Climatica
@@ -91,8 +93,6 @@ Plataforma de prediccion climatica.
 **[Ver Repositorio →](https://github.com/ErickGuerron/Probabilidad_Clima)**
 
 </td>
-</tr>
-
 <tr>
 <td width="50%">
 
