@@ -11,7 +11,7 @@
 <img src="Planet.gif" alt="Tech Orbit Animation" width="800" height="400" style="object-fit: cover;" />
 <div align="center">
   <a href="https://erickguerron.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌍_Ver_Animación_Interactiva_Expuesta_Por_Github_Action-Click_Aquí-blue?style=for-the-badge" alt="Ver animación" />
+    <img src="https://img.shields.io/badge/🌍_Ver_Animación_Interactiva_Expuesta_Por_Github_Pages-Click_Aquí-blue?style=for-the-badge" alt="Ver animación" />
   </a>
 </div>
 
