@@ -110,6 +110,72 @@ RESTful API con autenticación, validación estricta y cache optimizado.
 
 </td>
 </tr>
+</table>## 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%">
+
+### 📋 Heroes App
+**Stack:** • Angular  
+
+Sistema de gestión con autenticación JWT, control de roles y pipeline CI/CD automatizado.
+
+🔹 Auth segura con Guards  
+🔹 Uso de data de archivos .js
+🔹 GitHub Actions CI
+
+**[Ver Repositorio →](https://github.com/ErickGuerron/HeroesApp)**
+
+</td>
+<td width="50%">
+
+### 🛒 E-commerce Demo
+**Stack:** React • TypeScript • Tailwind
+
+Plataforma de comercio con gestión de estado avanzada y rutas protegidas.
+
+🔹 Carrito persistente  
+🔹 Testing con Jest/RTL  
+🔹 Responsive design  
+🔹 Optimización SEO
+
+**[Ver Repositorio →](https://github.com/Mabe-Zapata/E-commerce-25-26)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌤️ App Predicción Climática
+**Stack:** Angular • TypeScript • OpenMeteo • Tailwind
+
+Plataforma de predicción climática.
+
+🔹 Calendario meteorológico  
+🔹 Hora de cambio del clima  
+🔹 Región disponible Riobamba
+
+**[Ver Repositorio →](https://github.com/ErickGuerron/Probabilidad_Clima)**
+
+</td>
+<td width="50%">
+
+### 📚 Plataforma Educativa
+**Stack:** Laravel • Sanctum • MySQL
+
+RESTful API con autenticación, validación estricta y cache optimizado.
+
+🔹 CRUD completo  
+🔹 Paginación eficiente  
+🔹 Rate limiting  
+🔹 Logs de auditoría
+
+**[Ver Repositorio →](https://github.com/ErickGuerron/Proyecto-Fundamentos)**
+
+</td>
+</tr>
 </table>
 
 ---
