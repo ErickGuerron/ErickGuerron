@@ -74,7 +74,7 @@ Plataforma de comercio con gestión de estado avanzada y rutas protegidas.
 🔹 Responsive design  
 🔹 Optimización SEO
 
-**[Ver Repositorio →](https://github.com/ErickGuerron/ecommerce-demo)**
+**[Ver Repositorio →](https://github.com/Mabe-Zapata/E-commerce-25-26)**
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ Plataforma de comercio con gestión de estado avanzada y rutas protegidas.
 <td width="50%">
 
 ### 📚 API de Catálogos
-**Stack:** Laravel • Sanctum • MySQL • Redis
+**Stack:** Laravel • Sanctum • MySQL
 
 RESTful API con autenticación, validación estricta y cache optimizado.
 
@@ -92,22 +92,7 @@ RESTful API con autenticación, validación estricta y cache optimizado.
 🔹 Rate limiting  
 🔹 Logs de auditoría
 
-**[Ver Repositorio →](https://github.com/ErickGuerron/api-catalogos)**
-
-</td>
-<td width="50%">
-
-### 🤖 [Proyecto en Desarrollo]
-**Stack:** Next.js • FastAPI • Docker
-
-Sistema inteligente integrando IA Generativa responsable.
-
-🔹 Arquitectura modular  
-🔹 API Gateway  
-🔹 Microservicios  
-🔹 Documentación técnica
-
-**[Ver Repositorio →](https://github.com/ErickGuerron/proyecto-4)**
+**[Ver Repositorio →](https://github.com/ErickGuerron/Proyecto-Fundamentos)**
 
 </td>
 </tr>
@@ -166,7 +151,7 @@ CI/CD pipelines<br/>Docker workflows
 |:-------------|:-----------|:-----|
 | 🤖 **Fundamentos de IA Generativa** | Microsoft | Inteligencia Artificial |
 | 🔒 **ISO/IEC 27001:2022** | ProGenios | Seguridad de la Información |
-| 🐳 **Docker Essentials** | [Proveedor] | DevOps & Containers |
+| 🐳 **Docker Essentials** | [DevTalles] | DevOps & Containers |
 
 </div>
 
@@ -254,9 +239,7 @@ CI/CD pipelines<br/>Docker workflows
 <p align="center">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
 </p>
 
@@ -277,7 +260,6 @@ CI/CD pipelines<br/>Docker workflows
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 ### 🔧 DevOps & Herramientas
